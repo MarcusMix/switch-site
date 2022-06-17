@@ -22,7 +22,9 @@
 
    img {
     margin-top: 40px;
-    margin-left: 15%;
+    margin: auto;
+      display: block;
+   width: 70%;
    }
 
    ul {
